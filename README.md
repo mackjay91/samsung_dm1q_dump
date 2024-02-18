@@ -8,7 +8,7 @@
 - incremental: S911BXXU1AWC8
 - tags: release-keys
 - fingerprint: samsung/dm1qxxx/dm1q:13/TP1A.220624.014/S911BXXU1AWC8:user/release-keys
-- is_ab: false
+- is_ab: true
 - brand: samsung
 - branch: dm1qxxx-user-13-TP1A.220624.014-S911BXXU1AWC8-release-keys
 - repo: samsung_dm1q_dump
