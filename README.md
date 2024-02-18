@@ -1,4 +1,4 @@
-# dm1qxxx-user 13 TP1A.220624.014 S911BXXU1AWC8 release-keys
+leddaz-dump-stash/samsung_dm1q_dump:dm1qxxx-user-13-TP1A.220624.014-S911BXXU1AWC8-release-keys# dm1qxxx-user 13 TP1A.220624.014 S911BXXU1AWC8 release-keys
 - manufacturer: samsung
 - platform: kalama
 - codename: dm1q
